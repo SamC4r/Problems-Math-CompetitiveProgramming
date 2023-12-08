@@ -3,9 +3,9 @@ This is a colloction of problems in math/CP ... that i have solved. I will conti
 
 If you would like to learn the theory better rather than just randomly solving problems (though that is not a bad idea often) there's a folder called theory which contains a cherry tree database with notes.
 ![image](https://github.com/SamC4r/Problems-Math-CompetitiveProgramming/assets/75754683/9fe9772e-5061-47b3-8cab-602012c01e68)
-
-https://www.giuspen.net/cherrytree/
-
+```
+$ Download here -->    https://www.giuspen.net/cherrytree/
+```
 
 ![2023-12-08_17-07](https://github.com/SamC4r/Problems-Math-CompetitiveProgramming/assets/75754683/de62435b-2eca-49d9-a3c1-c9102ae06063)
 
