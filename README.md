@@ -1,4 +1,6 @@
 # Problems-Math-CompetitiveProgramming
+This is a colloction of problems in math/CP ... that i have solved. I will continue uploading more problems with their respective solution in the link below. There are hints, tricks, common mistakes and more useful information you can get to improve in problem solving like im trying to :)
+
 
 ![2023-12-08_17-07](https://github.com/SamC4r/Problems-Math-CompetitiveProgramming/assets/75754683/de62435b-2eca-49d9-a3c1-c9102ae06063)
 
