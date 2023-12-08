@@ -2,7 +2,8 @@
 This is a colloction of problems in math/CP ... that i have solved. I will continue uploading more problems with their respective solution in the link below. There are hints, tricks, common mistakes and more useful information you can get to improve in problem solving like im trying to :)
 
 If you would like to learn the theory better rather than just randomly solving problems (though that is not a bad idea often) there's a folder called theory which contains a cherry tree database with notes.
-![image](https://github.com/SamC4r/Problems-Math-CompetitiveProgramming/assets/75754683/9fe9772e-5061-47b3-8cab-602012c01e68)
+![image](https://github.com/SamC4r/Problems-Math-CompetitiveProgramming/assets/75754683/ab3807d5-2fd3-4c5e-af0f-d7efa0744865)
+
 ```
 $ Download here -->    https://www.giuspen.net/cherrytree/
 ```
