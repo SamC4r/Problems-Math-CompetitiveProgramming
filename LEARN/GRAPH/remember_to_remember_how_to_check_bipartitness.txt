@@ -1,0 +1,10 @@
+It is easy
+
+Start at a node and color all of its neighbours with X.
+Then all the neighbours of the nodes colored X color them Y and so on.
+
+If we found that adjacent nodes have the same color then it is not bipartite.
+
+If you overwrite a color with a different one then it is not bipartite. 
+
+NP-HARD for k>=3
