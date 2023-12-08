@@ -19,3 +19,28 @@ Or if you prefer
 
 https://docs.google.com/spreadsheets/d/1V04xGY939iAUGmB1DfSaiTfacREa62nQ4evfBhddTb0/edit?usp=sharing
 
+CSES
+----------------------
+
+- Introduction
+
+- Sorting/Searching
+
+- Math
+
+
+- Graphs
+
+
+Codeforces
+----------------
+- DIV2
+
+
+
+AceptaElReto (Spanish)
+
+
+
+
+
